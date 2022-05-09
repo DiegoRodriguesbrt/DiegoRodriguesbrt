@@ -10,7 +10,7 @@
 
 
 
-### Tecnologias que utilizo no meu dia
+### Tecnologias que estou aprendendo e desenvolvendo
 
 <div style = "display: inline_block">
 <br/>
