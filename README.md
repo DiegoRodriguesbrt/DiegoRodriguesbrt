@@ -1,7 +1,7 @@
 
 
 ### Olá! Eu sou o Diego Rodrigues 👋
-🎓 Graduando de Sistemas para Internet UNIESP
+🎓 Graduando de Sistemas para Internet UNIESP<br/>
 🎓 Concluinte Engenharia Mecânica Universidade Federal da Paraíba (UFPB)
 
 
