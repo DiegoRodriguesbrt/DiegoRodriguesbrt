@@ -4,7 +4,7 @@
 🎓 Graduando de Sistemas para Internet UNIESP<br/>
 🎓 Concluinte Engenharia Mecânica Universidade Federal da Paraíba (UFPB)<br/>
 
-
+<br/><br/>
 
 [![LinkeIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devdiegobrt/)    [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/diegorodriguesbrt/) [![Perfil GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DiegoRodriguesbrt)
 
