@@ -24,5 +24,6 @@
 </div><br/>
 
 Em transição de carreira para área de tecnologia e cada vez mais dentro desse mundo maravilhoso. Apaixonado por tecnologia e inovação!
+<br/><br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegorodriguesbrt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
