@@ -6,7 +6,7 @@
 
 Em transição de carreira para área de tecnologia e cada vez mais dentro desse mundo maravilhoso sempre em busca de novos conhecimentos, aprendizados e conhecer novas pessoas! Apaixonado por tecnologia e inovação!
 <br/><br/>
-<br/><br/>
+<br/>
 
 [![LinkeIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devdiegobrt/)    [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/diegorodriguesbrt/) [![Perfil GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DiegoRodriguesbrt)
 
@@ -27,4 +27,5 @@ Em transição de carreira para área de tecnologia e cada vez mais dentro desse
 
 ### Ranking gerado de acordo com meus repositórios
 <br/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegorodriguesbrt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
