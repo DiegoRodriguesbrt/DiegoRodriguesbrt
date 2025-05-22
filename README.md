@@ -1,4 +1,4 @@
-### 👋 Bem-vindo(a) ao meu GitHub!
+### :brazil: 👋 Bem-vindo(a) ao meu GitHub!
 
 Este espaço é dedicado a projetos pessoais, prototipagens e experimentações com ferramentas e tecnologias que não utilizo com tanta frequência no meu dia a dia profissional.
 
@@ -26,7 +26,7 @@ Aqui no GitHub, gosto de explorar novas abordagens, testar ideias e compartilhar
 
 ---
 
-### 👋 Welcome to my GitHub!
+### :us: 👋 Welcome to my GitHub!
 
 This space is dedicated to personal projects, prototyping, and experimenting with tools and technologies that I don't use as frequently in my professional day-to-day.
 
